@@ -1371,6 +1371,7 @@ gdjs.copyArray(runtimeScene.getObjects("SrBut"), gdjs.IntroduccionCode.GDSrButOb
 }{for(var i = 0, len = gdjs.IntroduccionCode.GDMaleBut2Objects1.length ;i < len;++i) {
     gdjs.IntroduccionCode.GDMaleBut2Objects1[i].getBehavior("Sticker").Stick(gdjs.IntroduccionCode.mapOfGDgdjs_9546IntroduccionCode_9546GDButtonSexObjects1Objects, (typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined));
 }
+}{gdjs.evtTools.window.setFullScreen(runtimeScene, true, false);
 }}
 
 }
