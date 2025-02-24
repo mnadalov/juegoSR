@@ -3,7 +3,7 @@
   "short_name": "Rose Game 2.0 - v2",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "any",
+  "orientation": "portrait",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
